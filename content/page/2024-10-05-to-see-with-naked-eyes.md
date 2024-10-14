@@ -10,12 +10,12 @@ imagegallery:
   carouselgrid: carousel
   gallerytitle: the work
   galleryImages:
-    - /img/dsc_8354.jpg
-    - /img/dsc_8309.jpg
-    - /img/dsc_8425.jpg
-    - /img/dsc_8318.jpg
-    - /img/dsc_8431.jpg
-thumbnail: /img/dsc_8354.jpg
+    - /img/scherm­afbeelding-2024-10-14-om-15.10.24.png
+    - /img/scherm­afbeelding-2024-10-14-om-15.10.33.png
+    - /img/scherm­afbeelding-2024-10-14-om-15.10.45.png
+    - /img/scherm­afbeelding-2024-10-14-om-15.10.56.png
+    - /img/scherm­afbeelding-2024-10-14-om-15.11.04.png
+thumbnail: /img/scherm­afbeelding-2024-10-14-om-15.10.45.png
 included: true
 numbernavigation: 0
 promoted: "0"
