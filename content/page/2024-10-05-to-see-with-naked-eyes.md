@@ -8,7 +8,7 @@ description: ""
 imagegallery:
   showgallery: true
   carouselgrid: carousel
-  gallerytitle: the work
+  gallerytitle: ""
   galleryImages:
     - /img/scherm­afbeelding-2024-10-14-om-15.10.24.png
     - /img/scherm­afbeelding-2024-10-14-om-15.10.33.png
