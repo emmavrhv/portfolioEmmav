@@ -1,15 +1,15 @@
 /* Body element */
 body {
-    background-color: #E6E6E6;
+    background-color:#f7fee7;
     color: rgba(12, 0, 0, 0.8);
     }
     .light-mode body {
-    background-color: #E6E6E6;
-    color: #1c1e1e;
+    background-color: #f7fee7;
+    color: #052e16;
     }
     .dark-mode body {
-    background-color: #1c1e1e; 
-    color: #E6E6E6;
+    background-color:#262626; 
+    color: #f7fee7;
     }
     .gray-mode body {
     background-color: #a3a3a3;
