@@ -17,7 +17,7 @@ included: true
 promoted: "0"
 ---
 
-::div{.futura} 
+::div{.playfair-display} 
 For this assignment from Johan, we had to create a typographic piece. Each of us received a quote from a designer featured in the book *Designer Maker User*. We had to create this quote on 4 different mediums, each time making 2 distinct pieces: one incorporating images and one without images.
 
 > In communication design context is everything

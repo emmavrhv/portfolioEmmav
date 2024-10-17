@@ -1,19 +1,19 @@
 /* Body element */
-body {
-    background-color:#f7fee7;
-    color: rgba(12, 0, 0, 0.8);
+body { 
+    background-color:#f9f2f0;
+    color: rgba(255, 255, 255, 0.905);
     }
     .light-mode body {
-    background-color: #f7fee7;
-    color: #052e16;
+    background-color: #f9f2f0;
+    color: #ff0000;
     }
     .dark-mode body {
-    background-color:#262626; 
-    color: #f7fee7;
+    background-color:#f9f2f0; 
+    color:rgba(0, 17, 255, 0.98);
     }
     .gray-mode body {
     background-color: #a3a3a3;
-    color: #060709;
+    color: #ff0000;
     }
     
     /* Active link */
@@ -48,3 +48,5 @@ body {
     .gray-mode select {
     border: 1px solid rgba(41, 41, 45, 0.8);
     } 
+
+   

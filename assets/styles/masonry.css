@@ -100,9 +100,10 @@
   border: none;
   padding: 10px 20px;
   font-size: 26px;
-  cursor: pointer;
-  opacity: 1;
-}
+  cursor: pointer
+  }
+
+
 
 .close-button:hover {
   opacity: .7;

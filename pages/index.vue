@@ -32,7 +32,7 @@ onMounted(async () => {
           </div>
           <div class="container animate-fade animate-once animate-delay-[500ms] mt-10 mb-20">
                 <div class="text-xl font-bold">{{ settings.homepage_title }}</div>
-                <div v-if="settings.homepage_subtitle" class="text-xl font-bold">{{ settings.homepage_subtitle }}</div>
+                <div v-if="settings.homepage_subtitle" class="text-xl text-left font-bold">{{ settings.homepage_subtitle }}</div>
                 <div class="text-sm opacity-80">{{ settings.body }}</div>
                 <PromotedContent v-if="settings.homepageimage === false" />
                 <UtilNav />

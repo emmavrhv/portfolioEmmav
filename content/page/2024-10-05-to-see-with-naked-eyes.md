@@ -20,7 +20,7 @@ included: true
 numbernavigation: 0
 promoted: "0"
 ---
-::div{.futura} 
+::div{.playfair-display} 
 This was an assignment in the second semester of the first year
 of my education in media & information design at sint-lukas school of arts in
 Brussels. 

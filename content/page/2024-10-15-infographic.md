@@ -1,6 +1,6 @@
 ---
 layout: default
-title: infographic
+title: Infographic
 date: 2024-10-15T20:16:12.293Z
 imagegallery:
   showgallery: true
@@ -13,7 +13,7 @@ promoted: "0"
 ---
 
 
-::div{.futura} 
+::div{.playfair-display}
 In the first semester of my first year, I designed an infographic on the theme of time, focusing on the issue of time lost due to traffic congestion. As a solution, I developed an innovative invention aimed at reducing time wasted in traffic.
 
 Throughout the design process, I explored various perspectives and ultimately chose an isometric view. This allowed me to clearly and effectively display each aspect of the solution.
