@@ -39,9 +39,9 @@ onMounted(async () => {
       <!-- Info section that triggers the hover effect -->
       <div class="info flex flex-col items-center justify-center h-screen">
         <div class="container text-left p-1 lg:p-20">
-          <div class="container  opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-white dark:bg-black bg-opacity-0 dark:bg-opacity-0">
-            <div class="text-9xl font-bold ">{{ settings.homepage_title }}</div>
-            <div class="text-xl opacity-90 font-serif">{{ settings.body }}</div>
+          <div class="container opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-white dark:bg-black bg-opacity-0 dark:bg-opacity-0">
+            <div class="text-9xl text-left playfair-display font-black ">{{ settings.homepage_title }}</div>
+            <div class="text-xl opacity-100 font-serif">{{ settings.body }}</div>
          
             
      
@@ -55,7 +55,7 @@ onMounted(async () => {
                       </svg>
                     </div>
                     <div class="flex-col">
-                    <span class="text-xs opacity-80"></span>
+                    <span class="text-xs playfair-display opacity-80"></span>
                     </div>
                   </NuxtLink>
             </div>

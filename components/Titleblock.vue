@@ -1,7 +1,7 @@
 <template>
     <div class="opacity-80 animate-fade animate-once animate-delay-[100ms]">
       <div
-      class="text-7xl font-bold">
+      class="text-8xl font-bold">
       
 
       {{ settings.site_title }}</div>

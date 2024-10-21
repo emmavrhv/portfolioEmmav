@@ -2,7 +2,7 @@
     <div class="opacity-80 animate-fade animate-once animate-delay-[10ms] pt-5">
 
       <div v-if="navigations.mainmenu.mainavigation_on_off">
-        <div class=" .futura text-2xl font-bold animate-fade animate-once animate-delay-[150ms]">
+        <div class="text-4xl font-regular animate-fade animate-once playfair-display leading-relaxed animate-delay-[150ms]">
             <MainNavigation />
         </div>
       </div>
