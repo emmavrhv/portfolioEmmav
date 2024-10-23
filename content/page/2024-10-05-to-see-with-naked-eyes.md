@@ -17,8 +17,8 @@ imagegallery:
     - /img/scherm­afbeelding-2024-10-14-om-15.11.04.png
 thumbnail: /img/scherm­afbeelding-2024-10-14-om-15.10.45.png
 included: true
-numbernavigation: 0
-promoted: "0"
+numbernavigation: 2
+promoted: 2
 ---
 ::div{.playfair-display} 
 This was an assignment in the second semester of the first year

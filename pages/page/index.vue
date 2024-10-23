@@ -54,3 +54,4 @@ const { data: posts } = await useAsyncData('posts', () => {
   .find()
 })
 </script>
+<h2 class="font-playfair text-2xl"></h2>

@@ -8,7 +8,7 @@
 
 <script setup>
 useHead({
-  title: 'Bureaupixel Example Decap & Nuxt',
+  title: 'Emma Verhoeven portfolio',
   meta: [
     { name: 'description', content: 'Example for students' }
   ],
