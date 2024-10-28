@@ -39,4 +39,5 @@ const direction = ref<DrawerProps['direction']>('rtl')
 .el-drawer  { background-color: rgba(206, 8, 8, 0.99);}
 .el-drawer {color: azure;}
 .dark-mode .el-drawer { background-color: rgba(0, 17, 255, 0.98); }
+.gray-mode .el-drawer { background-color: black;}
 </style>
