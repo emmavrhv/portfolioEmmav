@@ -39,13 +39,10 @@ onMounted(async () => {
       <!-- Info section that triggers the hover effect -->
       <div class="info flex flex-col items-center justify-center h-screen">
         <div class="container text-left p-1 lg:p-20">
-          <div class="container opacity-80 animate-fade animate-once animate-delay-[100ms] p-10 lg:p-20 bg-white dark:bg-black bg-opacity-0 dark:bg-opacity-0">
+          <div class="container opacity-80 animate-fade animate-once animate-delay-[100ms] bg-white dark:bg-black bg-opacity-0 dark:bg-opacity-0">
             <div class="text-9xl text-left playfair-display font-black ">{{ settings.homepage_title }}</div>
             <div class="text-xl opacity-100 font-serif">{{ settings.body }}</div>
-         
-            
-     
-            
+
 
             <div class="flex mt-10">
                 <NuxtLink to="https://github.com/bureaupixel/" target="_blank">
@@ -65,3 +62,9 @@ onMounted(async () => {
   </div>
 </div>  
 </template>
+
+<video-background 
+    src="<//Users/emma/Documents/2BA/atelier/bram/week 3/portfolioEmmav/IMG_5141.mp4>.mp4"
+    style="max-height: 400px; height: 100vh;"
+ >
+ </video-background>

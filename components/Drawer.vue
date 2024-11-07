@@ -12,9 +12,9 @@
 
   <el-drawer
   v-model="drawer"
-  class="drawer"
+  class="drawer min-w-full lg:min-w-48"
   :direction="direction"
-  size="35%"
+
 >
   <!-- Drawer content goes here -->
     <div class="">
